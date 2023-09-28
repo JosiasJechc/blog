@@ -11,14 +11,14 @@ const Footer = () => {
             </ul>
 
             <ul>
-                <li>Sistemas</li>
-                <li>Home</li>
-                <li>Post</li>
-                 <li>About</li>
+                <li>Contactate con Nosotros</li>
+                <li>Facebook</li>
+                <li>Twiter</li>
+                 <li>Telegram</li>
             </ul>
 
             <ul>
-                <li>Next</li>
+                <li>Next js</li>
             </ul>
             <ul>
                 <li>Versel</li>
